@@ -17,6 +17,8 @@
     }
   },
   "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-plugin-cucumber": "^0.1.0",
     "request": "^2.53.0",
     "temp": "^0.8.1"
   },
